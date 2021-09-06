@@ -35,6 +35,40 @@
     }
   }
 
+  .map-popup {
+    .leaflet-popup-content-wrapper {
+      background-color: rgba(255, 255, 255, 0.8);
+      border-radius: 20px;
+      box-shadow: 3px 3px 3px rgba(0, 0, 0, 0.1);
+    }
+
+    .leaflet-popup-content {
+      color: #0089a5;
+      font-size: 18px;
+      font-weight: bold;
+      margin: 8px 12px;
+
+      display: flex;
+      justify-content: space-between;
+      align-items: center;
+
+      a {
+        width: 40px;
+        height: 40px;
+        background-color: #15c3d6;
+        box-shadow: 5px 5px 5px rgba(23, 142, 166, 0.16);
+        border-radius: 12px;
+        display: flex;
+        align-items: center;
+        justify-content: center;
+      }
+    }
+
+    // .leaflet-popup-tip-container {  // é a setinha do balão
+      // display: none;
+    // }
+  }
+
   .create-orphanage {
     position: absolute; 
     z-index: 900;
