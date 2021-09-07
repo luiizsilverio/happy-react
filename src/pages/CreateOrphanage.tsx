@@ -183,7 +183,7 @@ export default function OrphanagesMap() {
             </div>
           </fieldset>
 
-          <button type="submit">Confirmar</button>
+          <button type="submit" className="primary-button">Confirmar</button>
           {/* <PrimaryButton type="submit">Confirmar</PrimaryButton> */}
         </form>
       </main>
