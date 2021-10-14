@@ -1,4 +1,4 @@
-![Happy](https://github.com/luiizsilverio/happy-react/blob/main/src/images/marker.svg)
+# ![](https://github.com/luiizsilverio/happy-react/blob/main/src/images/marker.svg)<br />Happy
 ## Conteúdo
 * [Sobre o Projeto](#sobre-o-projeto)
 * [Tecnologias](#hammer_and_wrench-tecnologias)
@@ -10,7 +10,7 @@
 Aplicação desenvolvida em React com Typescript para cadastrar e acessar os dados de orfanatos.<br />
 Permite visualizar um mapa interativo, com a posição dos orfanatos cadastrados.<br />
 Ao cadastrar um orfanato, permite selecionar uma ou mais imagens.<br />
-Para funcionar, é preciso que a aplicação <ins>happy-node</ins>, desenvolvida em Node, esteja rodando na porta 3333.<br />
+Para funcionar, é preciso que a aplicação __happy-node__, desenvolvida em Node, esteja rodando na porta 3333.<br />
 Acrescentei um spinner na tela de carregamento dos dados do orfanato.<br />
 
 ## :hammer_and_wrench: Tecnologias
