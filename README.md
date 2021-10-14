@@ -22,7 +22,7 @@ Acrescentei um spinner na tela de carregamento dos dados do orfanato.<br />
 * Rotas com <ins>React-router-dom</ins>
 
 ## :camera_flash: Screenshots
-![](https://github.com/luiizsilverio/happy-react/blob/main/src/images/images/happy-react.gif)
+![](https://github.com/luiizsilverio/happy-react/blob/main/src/images/happy-react.gif)
 
 ## :balance_scale: Licença
 Este projeto está licenciado sob a [licença MIT](LICENSE).
