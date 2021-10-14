@@ -1,4 +1,4 @@
-# ![](https://github.com/luiizsilverio/happy-react/blob/main/src/images/marker.svg)<br />Happy
+# ![](https://github.com/luiizsilverio/happy-react/blob/main/src/images/happy-react.svg)<br />Happy
 ## Conteúdo
 * [Sobre o Projeto](#sobre-o-projeto)
 * [Tecnologias](#hammer_and_wrench-tecnologias)
