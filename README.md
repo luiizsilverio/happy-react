@@ -10,7 +10,7 @@
 Aplicação desenvolvida em React com Typescript para cadastrar e acessar os dados de orfanatos.<br />
 Permite visualizar um mapa interativo, com a posição dos orfanatos cadastrados.<br />
 Ao cadastrar um orfanato, permite selecionar uma ou mais imagens.<br />
-Para funcionar, é preciso que a aplicação __happy-node__, desenvolvida em Node, esteja rodando na porta 3333.<br />
+Para funcionar, é preciso que a aplicação [happy-back](https://github.com/luiizsilverio/happy-back), desenvolvida em Node, esteja rodando na porta 3333.<br />
 Acrescentei um spinner na tela de carregamento dos dados do orfanato.<br />
 
 ## :hammer_and_wrench: Tecnologias
